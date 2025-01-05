@@ -11,7 +11,8 @@ public class main {
 		System.out.println(result);
 		
 
-		
+		int a = 56 % 3; // returns the remainder
+		System.out.println(a);
 		int new_calc = 10 + 2 * 3 - 4 / 2;
 		System.out.println(new_calc);
 		
