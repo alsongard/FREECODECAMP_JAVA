@@ -1,6 +1,4 @@
-package tutorial;
-
-public class main {
+public class MathBasicOperation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

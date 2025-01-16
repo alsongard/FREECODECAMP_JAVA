@@ -1,17 +1,10 @@
-package tutorial;
 import java.util.Scanner;
 import java.util.TreeMap;
-//import java.util.ArrayList;
-//import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
-//import java.util.Set;
-//import java.util.TreeSet;
-//import java.util.HashSet;
 import java.util.Map;
 
-public class main {
-	
+public class FunctionIntro{
 	public static void main(String[] args) {
 		
 		Hello("Java");

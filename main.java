@@ -1,6 +1,4 @@
-package tutorial;
 import java.util.Scanner;
-
 
 public class main {
 	

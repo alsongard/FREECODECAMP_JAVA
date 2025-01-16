@@ -4,14 +4,13 @@
  * Set <dataType> variableName = new HashSet <Datatype>();
  * */
 
-package tutorial;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.HashSet;
 
-public class main {
+public class Sets {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

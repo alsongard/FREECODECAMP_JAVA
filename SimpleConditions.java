@@ -1,7 +1,6 @@
-package tutorial;
 import java.util.Scanner;
 
-public class main {
+public class SimpleConditions{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -14,12 +13,11 @@ public class main {
 
 		// get user input
 		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter any string that comes to mind: ");
 		String user_input = sc.next();
 		
 		System.out.println(user_input.equals("Hello"));
-		
-		
-		
+
 	}
 
 }

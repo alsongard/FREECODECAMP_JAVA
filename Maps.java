@@ -1,11 +1,10 @@
-package tutorial;
 import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class main {
+public class Maps {
 	
 	public static void main(String[] args) {
 		

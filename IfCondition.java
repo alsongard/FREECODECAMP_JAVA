@@ -1,7 +1,6 @@
-package tutorial;
 import java.util.Scanner;
 
-public class main {
+public class IfCondition {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

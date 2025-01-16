@@ -5,9 +5,9 @@
  * */
 import java.util.Scanner;
 
-public class main {
+public class Arrays{
 
-	public static void main(String[] args) {
+	public  static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		//arrays

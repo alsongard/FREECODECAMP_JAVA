@@ -7,7 +7,6 @@
  * .set(a, b) : at the given index(a) set to value(b)
  * */
 
-package tutorial;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +14,7 @@ import java.util.Set;
 import java.util.TreeSet;
 import java.util.HashSet;
 
-public class main {
+public class ArrayIntro{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
