@@ -34,8 +34,8 @@ public class InputIntro{
 		
 		
 		// convert the input datatype
-		System.out.println("Enter any integer: ");
 		System.out.println("It is best to take user input as String data type and convert it to int");
+		System.out.println("Enter any integer: ");
 		String sum =  sc.next();
 		int value = Integer.parseInt(sum);
 		System.out.println(value);
